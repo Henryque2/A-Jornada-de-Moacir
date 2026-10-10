@@ -1,0 +1,33 @@
+A Jornada de Moacir
+Copyright (c) 2026 Equipe do TCC - Moacir Games
+
+Este trabalho está licenciado sob a Licença Creative Commons
+Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0).
+
+Para ver uma cópia desta licença, acesse:
+https://creativecommons.org/licenses/by-nc/4.0/
+Texto legal completo (em inglês):
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+RESUMO (não substitui o texto legal)
+
+Você pode:
+  - Compartilhar: copiar e redistribuir o material em qualquer meio ou formato.
+  - Adaptar: remixar, transformar e criar a partir do material.
+
+Sob os seguintes termos:
+  - Atribuição: você deve dar o crédito apropriado à Equipe do TCC, fornecer
+    um link para a licença e indicar se foram feitas alterações.
+  - NãoComercial: você não pode usar o material para fins comerciais.
+  - Sem restrições adicionais: você não pode aplicar termos legais ou medidas
+    tecnológicas que restrinjam outros de fazer o que a licença permite.
+
+AVISO SOBRE TERCEIROS
+
+Esta licença cobre apenas o código-fonte, a lógica e os materiais criados
+pela equipe. Sprites, músicas, efeitos sonoros, fontes e outros recursos de
+terceiros eventualmente incluídos no projeto permanecem sob suas licenças
+originais.
+
+O material é fornecido "no estado em que se encontra", sem garantias de
+qualquer tipo.
