@@ -98,4 +98,4 @@ O **Resetar progresso** (visível só na tela de título) apaga nome, saldo, ski
 - **Artes:** `Gabriel Ferreira & Guilherme Negro`
 - **Auxíliar Administrativo:** `João Furini`
 - **Orientador:** `Prof. Dr. Carlos Alberto Diniz`
-- **Licença:** [CC BY-NC 4.0](LICENSE) — uso e adaptação permitidos com atribuição e sem fins comerciais.
+- **Licença:** [CC BY-NC 4.0](LICENSE.txt) — uso e adaptação permitidos com atribuição e sem fins comerciais.
