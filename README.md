@@ -6,21 +6,6 @@ Jogo de tabuleiro digital inspirado no "Jogo da Vida", feito em **GameMaker Stud
 
 ---
 
-## Sumário
-
-- [Funcionalidades](#funcionalidades)
-- [Como o jogo funciona](#como-o-jogo-funciona)
-- [Estrutura do projeto](#estrutura-do-projeto)
-- [Sistema de eventos das casas](#sistema-de-eventos-das-casas)
-- [Dados salvos (`config.ini`)](#dados-salvos-configini)
-- [Placar online (Firebase)](#placar-online-firebase)
-- [Convenções de código](#convenções-de-código)
-- [Como rodar e exportar](#como-rodar-e-exportar)
-- [Pendências e pontos em aberto](#pendências-e-pontos-em-aberto)
-- [Créditos e licença](#créditos-e-licença)
-
----
-
 ## Funcionalidades
 
 **Jogabilidade**
