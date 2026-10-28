@@ -63,7 +63,7 @@ Jogo de tabuleiro digital inspirado no "Jogo da Vida", feito em **GameMaker Stud
 
 ---
 
-## Dados salvos (`config.ini`)
+## Dados salvos
 
 | Seção | Chaves |
 |---|---|
